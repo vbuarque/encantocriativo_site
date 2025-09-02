@@ -17,7 +17,7 @@ function App() {
           Em Breve
         </h2>
         <p className="mt-4 max-w-2xl text-base md:text-lg text-gray-600">
-          Estamos preparando um espaço acolhedor e criativo, com produtos pensados com carinho para todos, e um foco especial em celebrar a neurodiversidade. Agradecemos a sua paciência e mal podemos esperar para compartilhar nosso encanto com você.
+          Estamos preparando um espaço acolhedor e criativo, com produtos pensados com carinho para todos. Agradecemos a sua paciência e mal podemos esperar para compartilhar nosso encanto com você.
         </p>
       </main>
       <footer className="mt-12 text-sm text-gray-500">

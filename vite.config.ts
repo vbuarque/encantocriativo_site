@@ -8,4 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: '/encantocriativo_site/', // ATENÇÃO A ESTA LINHA!
 })
