@@ -5,8 +5,7 @@ function App() {
   return (
     <div className="bg-[#F8F7F4] min-h-screen flex flex-col items-center justify-center text-center p-4">
       <header className="mb-12">
-        {/* 2. USE O LOGO COMO UM COMPONENTE */}
-        <img src={Logo} className="w-60 max-w-[90%] text-[#C5A554]" alt="Vite logo" />
+        <img src={Logo} className="w-60 text-[#C5A554]" alt="Vite logo" />
       </header>
 
       <main>
